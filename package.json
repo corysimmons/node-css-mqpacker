@@ -1,6 +1,6 @@
 {
-  "name": "css-mqpacker",
-  "description": "Pack same CSS media query rules into one using PostCSS",
+  "name": "mqpacker",
+  "description": "Literally just css-mqpacker reuploaded to npm. --- Pack same CSS media query rules into one using PostCSS",
   "version": "7.0.0",
   "author": "Kyo Nagashima <hail2u@gmail.com> (https://kyonagashima.com/)",
   "bin": {
